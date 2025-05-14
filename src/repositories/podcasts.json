@@ -1,0 +1,38 @@
+[
+    {
+        "podcastName": "Flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": [
+            "health",
+            "fitness"
+        ]
+    },
+    {
+        "podcastName": "Flow",
+        "episode": "JULIO BALESTRIN + BITELO - Flow #401",
+        "videoId": "FuEYZNneS9Q",
+        "categories": [
+            "health",
+            "fitness"
+        ]
+    },
+    {
+        "podcastName": "Flow",
+        "episode": "MC HARIEL - Flow #444",
+        "videoId": "lGD1e_WjRCY",
+        "categories": [
+            "music",
+            "humor"
+        ]
+    },
+    {
+        "podcastName": "Venus",
+        "episode": "Rafael Passoni",
+        "videoId": "xxxxxxxx",
+        "categories": [
+            "humor",
+            "mindset"
+        ]
+    }
+]
