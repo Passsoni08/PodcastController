@@ -20,15 +20,26 @@ Episodes are grouped into category sections, such as:
 - List podcast episodes grouped by categories
 - Filter episodes based on the podcast name
 
+Com base no seu `package.json`, aqui está uma seção de **Tecnologias Utilizadas** em inglês comercial para incluir no seu `README.md`:
+
+---
+
 ## 🧰 Tech Stack
 
-- Node.js
-- Native HTTP module (no frameworks)
-- TypeScript
-- YouTube as the video content provider
+The project leverages modern TypeScript tooling and a minimalistic Node.js setup:
+
+* **Node.js** – Core runtime for building the server
+* **TypeScript** – Static type checking and modern JavaScript features
+* **tsx** – Fast TypeScript runtime for local development and script execution
+* **tsup** – Zero-config TypeScript bundler for building production-ready code
+* **@types/node** – Type definitions for Node.js APIs
+
+> The project avoids frameworks for full control and minimal overhead, relying on the native `http` module for request handling.
 
 
-Portuguese(BR):
+
+
+PORTUGUÊS(BR):
 
 # 🎙️ Podcast Manager
 
@@ -40,22 +51,26 @@ O **Podcast Manager** é uma API simples para listagem e filtragem de episódios
 
 Os episódios são organizados em seções por categorias, como:
 
-- 🧠 Mindset  
+- 🧠 Mentalidade  
 - 💪 Fitness  
 - 😂 Humor  
-- 🏥 Health  
+- 🏥 Saúde  
 
 ## 🚀 Funcionalidades
 
 - Listar episódios de podcasts organizados por categorias
 - Filtrar episódios com base no nome do podcast
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias Utilizadas
+O projeto utiliza uma stack moderna com foco em desempenho e simplicidade:
 
-- Node.js
-- HTTP module nativo (sem frameworks)
-- TypeScript 
-- YouTube como provedor de vídeos
+* **Node.js** – Ambiente de execução JavaScript para o servidor
+* **TypeScript** – Tipagem estática e recursos modernos de JavaScript
+* **tsx** – Execução rápida de arquivos TypeScript em ambiente de desenvolvimento
+* **tsup** – Empacotador zero-config para gerar builds de produção
+* **@types/node** – Tipagens das APIs nativas do Node.js
+
+
 
 
 
